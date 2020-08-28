@@ -1,5 +1,5 @@
 # OpenShack-Hardware
-Repository for customer built hardware related to the shack
+Repository for custom built hardware related to the shack
 
 will include design information for DIY hardware used in the shack.  This is intended to be things like:
   * custom built circuits for audio interfacing, radio accessories etc.
